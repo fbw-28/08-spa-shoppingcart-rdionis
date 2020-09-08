@@ -1,0 +1,10 @@
+.shopping-cart {
+  width: 75vw;
+  border: solid 1px gray;
+  border-radius: 5px;
+}
+
+.shopping-cart ul li {
+  margin-top: 1.25rem;
+  margin-bottom: 0.5rem;
+}
